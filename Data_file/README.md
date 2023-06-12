@@ -16,5 +16,9 @@
 
 <br>
 
+## 데이터 저장소
+https://drive.google.com/drive/folders/1bwGJI5Eg63SqY6DW4xaM8ra53qv1dLy6?usp=drive_link
+
+
 ## 데이터 출처
 * URL : https://www.kaggle.com/datasets/latifahhukma/fashion-campus
