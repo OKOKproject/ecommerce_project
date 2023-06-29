@@ -14,5 +14,5 @@
 - 오형석  
 
 ### 📌 분석 결과
-- 분석결과(노션페이지) [https://www.notion.so/2-bee6080fabb44bfd83acf2be7ab4a348]
+- 분석결과 (노션페이지)[https://www.notion.so/2-bee6080fabb44bfd83acf2be7ab4a348]
 - PPT
